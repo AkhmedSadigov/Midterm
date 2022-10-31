@@ -10,6 +10,8 @@ namespace Midterm
     {
         static void Main(string[] args)
         {
+            //Sahesi 81 olan cevrenin radiusunu tap. 
+            
             try
             {
                 double p = 3.14;
